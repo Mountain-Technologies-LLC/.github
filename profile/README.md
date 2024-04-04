@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to Mountain Technologies LLC! We are a software agency and we love to code! Please reach if you want to discuss a project or if you would like to know if any opportunities.
+Welcome to Mountain Technologies LLC! We are a software agency, and we love to code! Please reach if you want to discuss your project or if you would like to hear of any opportunities.
 
 Thank you for reading the README,
 The team at Mountain Technologies LLC
